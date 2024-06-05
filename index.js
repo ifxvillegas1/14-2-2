@@ -1,11 +1,11 @@
 const yesbtn = document.querySelector('#yesbtn');
 
 yesbtn.addEventListener('click',function (){
-    alert('Te espero el 14')
+    alert('Me alegro ')
 });
 
 const nobtn = document.querySelector('#nobtn');
 
 nobtn.addEventListener('click', function (){
-    alert('Esta bien 😿')
+    alert('Que mal :(')
 });
